@@ -4,5 +4,5 @@ number =int(input("Enter your number: "))
 if number%2==0:
     print("Entered Number is Even Number")
 else:
-    print("The number is Odd Number")
+    print("Entered number is Odd Number")
 
